@@ -71,11 +71,11 @@ git push
 
 有一种方式，可以更好地、自动地帮您生成目标格式，在谷歌浏览器中搜索插件“TabListPanel”，安装即可。
 
-![picture 6](../.imgs/readme-1642929217857-470d6a6cc0dbf35a455a429cd0ece94433011a0b0ffc1d9f524b50edc9b522ac.png)  
+![picture 6](https://mark-vue-oss.oss-cn-hangzhou.aliyuncs.com/readme-1642929217857-470d6a6cc0dbf35a455a429cd0ece94433011a0b0ffc1d9f524b50edc9b522ac.png)  
 
 然后在需要复制其`markdown`格式的网站上选择`markdown`按钮，就自动进入剪切板了。
 
-![picture 7](../.imgs/readme-1642929268919-e9024b1a07f55683f523d318712d342fc4679fdfd4ae995d7e853d47c07f80c8.png)  
+![picture 7](https://mark-vue-oss.oss-cn-hangzhou.aliyuncs.com/readme-1642929268919-e9024b1a07f55683f523d318712d342fc4679fdfd4ae995d7e853d47c07f80c8.png)  
 
 ## 规范
 
