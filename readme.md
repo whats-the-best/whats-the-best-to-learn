@@ -31,3 +31,57 @@
 ### 经典
 
 - [skyzluo/CS143-Compilers-Stanford: My solutions to the programming assignments of the Stanford Compiler course.](https://github.com/skyzluo/CS143-Compilers-Stanford)
+
+## 指引
+
+### 仓库修改指引
+
+```sh
+### step 1. clone project
+git clone https://github.com/whats-the-best/whats-the-best-to-learn
+
+### step 2. change content
+cd whats-the-best-to-learn
+# change what you want
+
+### step 3. upload what you changed
+
+# track all files you changed
+git add .
+
+# commit 
+git commit -m "DESCRIBE_WHAT_YOU_HAVE_DONE"
+
+# check pull if conflicted
+git pull
+
+# push
+git push
+
+### step 4. wait for us to merge or drop
+```
+
+### 链接新增指引
+
+所有链接都是基于markdown格式，格式为`-[DESCRIPTION](URL)`。
+
+一般来说，`DESCRIPTION`是目标网址的标题，`URL`就是目标网址的网址。
+
+尤其适合，目标网址是github上已有的仓库。
+
+有一种方式，可以更好地、自动地帮您生成目标格式，在谷歌浏览器中搜索插件“TabListPanel”，安装即可。
+
+![picture 6](../.imgs/readme-1642929217857-470d6a6cc0dbf35a455a429cd0ece94433011a0b0ffc1d9f524b50edc9b522ac.png)  
+
+然后在需要复制其`markdown`格式的网站上选择`markdown`按钮，就自动进入剪切板了。
+
+![picture 7](../.imgs/readme-1642929268919-e9024b1a07f55683f523d318712d342fc4679fdfd4ae995d7e853d47c07f80c8.png)  
+
+## 规范
+
+本文档基于以下环境：
+
+电脑：MacOS
+软件：vscode
+文件规范：vscode的插件`markdownlint`
+同步：git
