@@ -18,6 +18,10 @@
 
 - [0voice/expert_readed_books: 2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍](https://github.com/0voice/expert_readed_books)
 
+### 民生
+
+- [shengcaishizhan/kkndme_tianya: 天涯 kkndme 神贴聊房价](https://github.com/shengcaishizhan/kkndme_tianya)
+
 ### CS-考研
 
 - [stellarkey/912_project: 清华大学计算机系考研攻略 Guidance for postgraduate entrance examination in Department of Computer Science and Technology, Tsinghua University](https://github.com/stellarkey/912_project)
