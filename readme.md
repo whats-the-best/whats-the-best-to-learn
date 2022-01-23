@@ -4,7 +4,7 @@
 >
 > Learn the best and do the best.
 >
-> Don't let your life upset.
+> Don't let your life down.
 >
 > You can be more than what you have been.
 
