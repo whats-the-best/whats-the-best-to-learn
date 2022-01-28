@@ -59,7 +59,7 @@
 
 ```sh
 ### step 1. clone project
-git clone https://github.com/whats-the-best/whats-the-best-to-learn
+git clone https://github.com/MarkShawn2020/whats-the-best-to-learn
 
 ### step 2. change content
 cd whats-the-best-to-learn
