@@ -15,7 +15,9 @@
     3. [CS-考研](#cs-考研)
     4. [CS-OI](#cs-oi)
     5. [CS-经典](#cs-经典)
-    6. [Coding-Best-Practice](#coding-best-practice)
+    6. [VR/AR/XR](#vrarxr)
+        1. [SLAM算法](#slam算法)
+    7. [Coding-Best-Practice](#coding-best-practice)
 3. [指引](#指引)
     1. [仓库修改指引](#仓库修改指引)
     2. [链接新增指引](#链接新增指引)
@@ -48,6 +50,12 @@
 ### CS-经典
 
 - [skyzluo/CS143-Compilers-Stanford: My solutions to the programming assignments of the Stanford Compiler course.](https://github.com/skyzluo/CS143-Compilers-Stanford)
+
+### VR/AR/XR
+
+#### SLAM算法
+
+- [AlbertSlam/Lee-SLAM-source: SLAM 开发学习资源与经验分享](https://github.com/AlbertSlam/Lee-SLAM-source#%E5%85%A5%E9%97%A8)
 
 ### Coding-Best-Practice
 
