@@ -36,7 +36,9 @@
 
 ### 民生
 
-- [shengcaishizhan/kkndme_tianya: 天涯 kkndme 神贴聊房价](https://github.com/shengcaishizhan/kkndme_tianya)
+- [【做菜】Anduin2017/HowToCook: 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).](https://github.com/Anduin2017/HowToCook)
+
+- [【房价】shengcaishizhan/kkndme_tianya: 天涯 kkndme 神贴聊房价](https://github.com/shengcaishizhan/kkndme_tianya)
 
 ### CS-书籍
 
