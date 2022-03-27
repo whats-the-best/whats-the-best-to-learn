@@ -12,12 +12,13 @@
 2. [分类](#分类)
     1. [综合](#综合)
     2. [民生](#民生)
-    3. [CS-考研](#cs-考研)
-    4. [CS-OI](#cs-oi)
-    5. [CS-经典](#cs-经典)
-    6. [VR/AR/XR](#vrarxr)
+    3. [CS-书籍](#cs-书籍)
+    4. [CS-考研](#cs-考研)
+    5. [CS-OI](#cs-oi)
+    6. [CS-经典](#cs-经典)
+    7. [VR/AR/XR](#vrarxr)
         1. [SLAM算法](#slam算法)
-    7. [Coding-Best-Practice](#coding-best-practice)
+    8. [Coding-Best-Practice](#coding-best-practice)
 3. [指引](#指引)
     1. [仓库修改指引](#仓库修改指引)
     2. [链接新增指引](#链接新增指引)
@@ -36,6 +37,10 @@
 ### 民生
 
 - [shengcaishizhan/kkndme_tianya: 天涯 kkndme 神贴聊房价](https://github.com/shengcaishizhan/kkndme_tianya)
+
+### CS-书籍
+
+- [justjavac/free-programming-books-zh_CN: 免费的计算机编程类中文书籍，欢迎投稿](https://github.com/justjavac/free-programming-books-zh_CN)
 
 ### CS-考研
 
