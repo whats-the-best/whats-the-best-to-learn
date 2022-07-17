@@ -8,21 +8,21 @@
 >
 > You can be more than what you have been.
 
-1. [Index](#index)
-2. [分类](#分类)
-    1. [综合](#综合)
-    2. [民生](#民生)
-    3. [CS-书籍](#cs-书籍)
-    4. [CS-考研](#cs-考研)
-    5. [CS-OI](#cs-oi)
-    6. [CS-经典](#cs-经典)
-    7. [VR/AR/XR](#vrarxr)
-        1. [SLAM算法](#slam算法)
-    8. [Coding-Best-Practice](#coding-best-practice)
-3. [指引](#指引)
-    1. [仓库修改指引](#仓库修改指引)
-    2. [链接新增指引](#链接新增指引)
-4. [规范](#规范)
+- [Index](#index)
+- [分类](#分类)
+    - [综合](#综合)
+    - [民生](#民生)
+    - [CS-书籍](#cs-书籍)
+    - [CS-考研](#cs-考研)
+    - [CS-OI](#cs-oi)
+    - [CS-经典](#cs-经典)
+    - [VR/AR/XR](#vrarxr)
+        - [SLAM算法](#slam算法)
+    - [Coding-Best-Practice](#coding-best-practice)
+- [指引](#指引)
+    - [仓库修改指引](#仓库修改指引)
+    - [链接新增指引](#链接新增指引)
+- [规范](#规范)
 
 ## Index
 
@@ -36,9 +36,11 @@
 
 ### 民生
 
-- [【做菜】Anduin2017/HowToCook: 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).](https://github.com/Anduin2017/HowToCook)
+- [【停贷】WeNeedHome/SummaryOfLoanSuspension: 全国各省市停贷通知汇总](https://github.com/WeNeedHome/SummaryOfLoanSuspension)
 
 - [【房价】shengcaishizhan/kkndme_tianya: 天涯 kkndme 神贴聊房价](https://github.com/shengcaishizhan/kkndme_tianya)
+
+- [【做菜】Anduin2017/HowToCook: 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).](https://github.com/Anduin2017/HowToCook)
 
 ### CS-书籍
 
